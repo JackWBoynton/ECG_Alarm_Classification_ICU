@@ -4,14 +4,15 @@ This repository contains supplementary materials from a research project for det
 
 **Contents in this repository:**
 
-Paper:
+## Paper:
 1. CinC 2021 abstract [pdf](abstract.pdf)
 2. CinC 2021 full paper [pdf] -- will be posted soon
 
-Source codes:
+## Source codes:
 1. ResNet + BiLSTM Model Architecture and supporting code [python (link)](resnet_attention.py)
     ![ResNet + BiLSTM](arch.png)   
 2. WFDB ECG Segment splitting and data preparation [python (link)](split.py)
 
-Data sets:
+## Data sets:
+![PhysioNet 2015 ECG Data Download](https://storage.googleapis.com/challenge-2015-1.0.0.physionet.org/reducing-false-arrhythmia-alarms-in-the-icu-the-physionet-computing-in-cardiology-challenge-2015-1.0.0.zip)
 
