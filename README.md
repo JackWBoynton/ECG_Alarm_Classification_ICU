@@ -9,11 +9,11 @@ This repository contains supplementary materials from a research project for det
 2. CinC 2021 full paper [pdf] -- _forthcoming_
 
 ## Methods:
-1. Deep learning model: ResNet + BiLSTM Model Architecture and supporting code [python (link)](resnet_attention.py)
+1. Deep learning model: ResNet + BiLSTM. Model architecture (figure below) and source code [python (link)](resnet_attention.py)
     ![ResNet + BiLSTM](arch.png)   
-2. Prequential evaluation: _forthcoming_
-3. Data preparation: WFDB ECG Segment splitting and data preparation [python (link)](split.py)
-4. Data sets: 2015 PhysioNet Challenge data [(download)](https://storage.googleapis.com/challenge-2015-1.0.0.physionet.org/reducing-false-arrhythmia-alarms-in-the-icu-the-physionet-computing-in-cardiology-challenge-2015-1.0.0.zip)
+2. Prequential evaluation: Growing window version. Source code _forthcoming_
+3. Data preparation: WFDB ECG Segment splitting and data preparation. Source code [python (link)](split.py)
+4. Data sets: 2015 PhysioNet Challenge data sets [(download)](https://storage.googleapis.com/challenge-2015-1.0.0.physionet.org/reducing-false-arrhythmia-alarms-in-the-icu-the-physionet-computing-in-cardiology-challenge-2015-1.0.0.zip)
 
 ## Results:
 _Forthcoming_
