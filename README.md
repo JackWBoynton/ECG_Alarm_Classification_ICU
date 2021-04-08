@@ -3,6 +3,7 @@
 This repository contains supplementary materials from a research project for determining whether an ECG arrhythmia alarm in the ICM is a true alarm or a false alarm. This is done by classifying the ECG segment immediately following an alarm into either that of a true alarm or a false alarm, as accurately as possible and as early as possible. This research resulted in an advancement of the state of the art, mostly resulting from 2015 PhysioNet/CinC Challenge (https://www.physionet.org/content/challenge-2015/1.0.0/).
 
 Contents in this repository:
-1. ResNet + BiLSTM Model Architecture and supporting code [link](resnet_attention.py)
+1. ResNet + BiLSTM Model Architecture and supporting code [py](resnet_attention.py)
     ![ResNet + BiLSTM](arch.png)   
-2. WFDB ECG Segment splitting and data preparation [link](split.py)
+2. WFDB ECG Segment splitting and data preparation [py](split.py)
+3. CinC2021 Abstract [pdf](abstract.pdf)
