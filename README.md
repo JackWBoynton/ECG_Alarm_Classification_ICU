@@ -9,9 +9,9 @@ Paper:
 2. CinC 2021 full paper [pdf] -- will be posted soon
 
 Source codes:
-1. ResNet + BiLSTM Model Architecture and supporting code [link](resnet_attention.py)
+1. ResNet + BiLSTM Model Architecture and supporting code [python](resnet_attention.py)
     ![ResNet + BiLSTM](arch.png)   
-2. WFDB ECG Segment splitting and data preparation [link](split.py)
+2. WFDB ECG Segment splitting and data preparation [python](split.py)
 
 Data sets:
 
