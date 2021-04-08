@@ -4,5 +4,5 @@ This repository contains supplementary materials from a research project for det
 
 Contents in this repository:
 1. ResNet + BiLSTM Model Architecture and supporting code [link](resnet_attention.py)
-    [ResNet + BiLSTM](arch.png)   
+    ![ResNet + BiLSTM](arch.png)   
 2. WFDB ECG Segment splitting and data preparation [link](split.py)
