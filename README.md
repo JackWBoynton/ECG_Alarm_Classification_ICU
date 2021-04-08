@@ -13,7 +13,7 @@ This repository contains supplementary materials from a research project for det
     ![ResNet + BiLSTM](arch.png)   
 2. Prequential evaluation: _forthcoming_
 3. Data sets: WFDB ECG Segment splitting and data preparation [python (link)](split.py)
-              ![PhysioNet 2015 ECG Data Download](https://storage.googleapis.com/challenge-2015-1.0.0.physionet.org/reducing-false-arrhythmia-alarms-in-the-icu-the-physionet-computing-in-cardiology-challenge-2015-1.0.0.zip)
+              2015 PhysioNet Challenge data ![download](https://storage.googleapis.com/challenge-2015-1.0.0.physionet.org/reducing-false-arrhythmia-alarms-in-the-icu-the-physionet-computing-in-cardiology-challenge-2015-1.0.0.zip)
 
 ## Results:
 _Forthcoming_
