@@ -5,13 +5,13 @@ This repository contains supplementary materials from a research project for det
 **Contents in this repository:**
 
 Paper:
-1. CinC 2021 abstract [pdf]
+1. CinC 2021 abstract [pdf](abstract.pdf)
 2. CinC 2021 full paper [pdf] -- will be posted soon
 
 Source codes:
-1. ResNet + BiLSTM Model Architecture and supporting code [py](resnet_attention.py)
+1. ResNet + BiLSTM Model Architecture and supporting code [link](resnet_attention.py)
     ![ResNet + BiLSTM](arch.png)   
-2. WFDB ECG Segment splitting and data preparation [py](split.py)
+2. WFDB ECG Segment splitting and data preparation [link](split.py)
 
 Data sets:
 
