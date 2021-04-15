@@ -16,9 +16,10 @@ This repository contains supplementary materials from a research project for det
 4. Data sets: 2015 PhysioNet Challenge data sets [(download)](https://storage.googleapis.com/challenge-2015-1.0.0.physionet.org/reducing-false-arrhythmia-alarms-in-the-icu-the-physionet-computing-in-cardiology-challenge-2015-1.0.0.zip)
 
 ## Results:
-The result datasets are those used to generate the figures in the paper. (The corresponding figure numbers are specified for each dataset.)
+The result datasets are those used to generate the figures and tables in the paper. (The corresponding figure/table numbers are specified for each dataset.)
 1. Classification time for varying interval: one row for each ECG segment; one column for each batch-interval (4 msec, 0.5 sec, 1 sec, 2 sec) [(download)] (see Figure 3).
 2. Model's output probaility over time: one row for each ECG segment; one row for each sample within the sample interval (4 msec) [(download)] (see Figure 4).
 3. Classification times (with the 4 msec interval) for all ECG segments, for the polairy approach [(download)] (see Figure 5 left).
 4. Classification times (with the 4 msec interval) for all ECG segments, for the threshold approach [(download)] (see Figure 5 right).
+5. Classification accuracy among the three model structures (ResNet+BiLSTM, ResNet only, BiLST only) [(download)] (see Table 1).
 
