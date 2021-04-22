@@ -17,9 +17,8 @@ This repository contains supplementary materials from a research project for det
 
 ## Results:
 The result datasets are those used to generate the figures and tables in the paper. (The corresponding figure/table numbers are specified for each dataset.)
-1. Classification time for varying interval: one row for each ECG segment; one column for each batch-interval (4 msec, 0.5 sec, 1 sec, 2 sec) [(download)] (see Figure 3).
-2. Model's output probaility over time: one row for each ECG segment; one row for each sample within the sample interval (4 msec) [(download)] (see Figure 4).
-3. Classification times (with the 4 msec interval) for all ECG segments, for the polairy approach [(download)] (see Figure 5 left).
-4. Classification times (with the 4 msec interval) for all ECG segments, for the threshold approach [(download)] (see Figure 5 right).
-5. Classification accuracy among the three model structures (ResNet+BiLSTM, ResNet only, BiLST only) [(download)] (see Table 1).
+1. Classification time for varying interval: one row for each ECG segment; one column for each batch-interval (4 msec, 0.5 sec, 1 sec, 2 sec) [(download)] (see Figure 3 in text).
+2. Model's output probability over time: one row for each ECG segment; one row for each sample within the sample interval (4 msec) [(download true alarm)](figures/Figure4Left.png) [(download false alarm)](figures/Figure4Right.png)(see Figure 4 in text).
+3. Classification times (with the 4 msec interval) for all ECG segments, comparing approaches. [(download boxplots)](figures/Figure5.png) (see Figure 5 in text)
+5. Classification accuracy among the three model structures (ResNet+BiLSTM, ResNet only, BiLSTM only) [(download table)](figures/Table1.png) (see Table 1 in text).
 
