@@ -11,7 +11,7 @@ This repository contains supplementary materials from a research project for det
 ## Methods:
 1. Deep learning model: ResNet + BiLSTM. Model architecture (figure below) and source code [python (link)](resnet_attention.py)
     ![ResNet + BiLSTM](arch.png)   
-2. Prequential evaluation: Growing window version. Source code _forthcoming_
+2. Prequential evaluation: Growing window version. Source code [python (link)](split.npy)
 3. Data preparation: WFDB ECG Segment splitting and data preparation. Source code [python (link)](split.py)
 4. Data sets: 2015 PhysioNet Challenge data sets [(download)](https://storage.googleapis.com/challenge-2015-1.0.0.physionet.org/reducing-false-arrhythmia-alarms-in-the-icu-the-physionet-computing-in-cardiology-challenge-2015-1.0.0.zip)
 
