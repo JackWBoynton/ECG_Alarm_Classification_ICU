@@ -5,9 +5,9 @@ This repository contains supplementary materials from a research project for det
 **Contents in this repository:**
 
 ## Paper:
-1. CinC 2021 abstract [pdf](abstract.pdf)
+1. CinC 2021 abstract [pdf](CinC2021_abstract.pdf)
 2. CinC 2021 poster [pdf](CinC2021_poster.pdf)
-3. CinC 2021 full paper [pdf](5_preprint.pdf)
+3. CinC 2021 full paper [pdf](CinC2021_full_paper.pdf)
 
 ## Methods:
 1. Deep learning model: ResNet + BiLSTM. Model architecture (figure below) and source code [python (link)](resnet_attention.py)
