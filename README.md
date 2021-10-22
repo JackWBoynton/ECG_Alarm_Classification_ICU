@@ -6,7 +6,8 @@ This repository contains supplementary materials from a research project for det
 
 ## Paper:
 1. CinC 2021 abstract [pdf](abstract.pdf)
-2. CinC 2021 full paper [pdf](ICU_false_cardiac_alarm_detection.pdf)
+2. CinC 2021 poster [pdf] (poster.pdf)
+3. CinC 2021 full paper [pdf](full_paper.pdf)
 
 ## Methods:
 1. Deep learning model: ResNet + BiLSTM. Model architecture (figure below) and source code [python (link)](resnet_attention.py)
